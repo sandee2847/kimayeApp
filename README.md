@@ -3,5 +3,4 @@
 <h3>Deploy Link:</h3>
 <a href="https://kimaye-phi.vercel.app/whykimaye">https://kimaye-phi.vercel.app/whykimaye</a>
 <h3>Original Link:</h3>
-<a href="https://www.kimaye.com/">[https://kimaye-phi.vercel.app/whykimaye](https://www.kimaye.com/)</a>
-https://www.kimaye.com/
+<a href="https://www.kimaye.com/">https://www.kimaye.com/</a>
