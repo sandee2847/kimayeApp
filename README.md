@@ -4,3 +4,6 @@
 <a href="https://kimaye-phi.vercel.app/whykimaye">https://kimaye-phi.vercel.app/whykimaye</a>
 <h3>Original Link:</h3>
 <a href="https://www.kimaye.com/">https://www.kimaye.com/</a>
+<hr/>
+<br/>
+<img src="./Screenshot (51).png" alt="image"/>
