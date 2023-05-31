@@ -1,0 +1,29 @@
+.bgImg{
+    background: url('../../../public/green_bg.webp');
+    background-position: center;
+    background-size: cover;
+}
+.yellowCover{
+    background: url('../../../public/yellow_bg.webp');
+    background-position: center;
+    background-size: cover;
+}
+
+/* grow page */
+.section{
+    background: url('../../../public/jazz-bg-texture-min_1.jpg');
+    background-position: center;
+}
+
+/* why kimaye */
+.why{
+    background: url('../../../public/why.webp');
+    background-position: center;
+    background-size: cover;
+}
+.whybg{
+    background: url('../../../public/why10.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
